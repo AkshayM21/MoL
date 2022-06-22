@@ -1,9 +1,5 @@
 # Results
 
-# Various notes
-
-“diag - offdiag is about whether one region specifically represent this thing. diag is better for comparing different correlations”
-
 # Encoding-Encoding Similarity
 
 ## Diagonal-off diagonal correlations
